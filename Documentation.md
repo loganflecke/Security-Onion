@@ -22,7 +22,7 @@
 ### Monitoring Interface
 - Used to ingest all traffic that is mirrored by the physical switch
 - Does not assign an IP address
-- Operates in Promiscuous Mode
+- Operates in Promiscuous Mode to capture all the traffic it sees on the network
 
 ## Access
 
