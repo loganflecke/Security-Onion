@@ -17,6 +17,8 @@ This repository documents my senior project, where I implemented a Network Intru
 1. **Preparation:**
     - Installed Security Onion on my personal computer during the summer before the semester.
     - Tested the installation and configuration in a controlled environment.
+    - Developed a project proposal.
+
 
 2. **Lab Deployment:**
     - Set up the NIDS server on a physical server running VMware ESXi, connected to the lab's physical switch.
@@ -24,21 +26,24 @@ This repository documents my senior project, where I implemented a Network Intru
 
 3. **Documentation:**
     - Created a network diagram.
-    - Developed a project proposal.
     - Maintained a documentation file outlining project details.
 
-4. **NIC Teaming:**
+4. **Troubleshooting:**
     - Ensured smooth traffic flow by performing NIC teaming.
     - Added an additional physical network adapter to the ESXi Host (Security Onion).
 
+5. **Testing:**
+    - Used malware-traffic-analysis.net and testmyNIDS to ensure full configuration and success of the project.
+    - Refined dashboards, user access, and alerts deemed false positives
+
 ## Additional Resources
 
+- [**Project Evaluation**](./Improvements.md)
+- [**Documentation**](./Documentation.md)
 - [Network Diagram](./images/Network_Diagram.jpeg)
 - [Project Proposal](./Project_Proposal.md)
-- [**Documentation**](./Documentation.md)
 - [Security Onion Overview Page](./Security_Onion_Overview.md)
 - [NIC Teaming Guide](./NIC_Teaming.md)
-- [**Project Evalutation**](./Improvements.md)
 
 
 ## Learning Outcomes
