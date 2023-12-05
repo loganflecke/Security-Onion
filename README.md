@@ -10,6 +10,8 @@ This repository documents my senior project, where I implemented a Network Intru
 - **Deployment:** Physical server connected to a physical switch, controlling east-west and north-south traffic flow.
 - **Assistance:** Configured port mirroring with Meraki to direct lab traffic to Security Onion.
 
+![networkdiagram](Network_Diagram.jpeg)
+
 ## Project Timeline
 
 1. **Preparation:**
