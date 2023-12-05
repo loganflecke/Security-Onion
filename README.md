@@ -1,4 +1,4 @@
-# Network Intrusion Detection System (NIDS) - Senior Project
+# Network Intrusion Detection System - Senior Project
 
 ## Overview
 
