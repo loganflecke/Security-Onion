@@ -18,16 +18,12 @@ Welcome to the Security Onion overview page for Xavier University's Cyber Lab. H
 
 ## Documentation
 
+Under development
+
 - [User Guides](user-guides.md)
 - [Installation Instructions](installation-instructions.md)
 - [Frequently Asked Questions (FAQ)](faq.md)
 - [Cheatsheet](https://172.16.1.25/docs/cheatsheet.pdf)
-
-## Support
-
-If you need assistance or have any questions, don't hesitate to contact us:
-
-- **Email**: fleckej@xavier.edu
 
 ## Stay Secure!
 Thank you for using Security Onion on Xavier University's Cyber Lab.
