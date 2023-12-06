@@ -29,8 +29,8 @@ This repository documents my senior project, where I implemented a Network Intru
     - Maintained a documentation file outlining project details.
 
 4. **Troubleshooting:**
-    - Ensured smooth traffic flow by performing NIC teaming.
-    - Added an additional physical network adapter to the ESXi Host (Security Onion).
+    - Adequate space was required for traffic logs. A new hard disk drive with more storage was installed and Security Onion was reinstalled on that drive.
+    - An abundance of network traffic caused by the consistent use of so many machines necessitated deleting the logs after only a week.
 
 5. **Testing:**
     - Used malware-traffic-analysis.net and testmyNIDS to ensure full configuration and success of the project.
@@ -43,7 +43,6 @@ This repository documents my senior project, where I implemented a Network Intru
 - [Network Diagram](./images/Network_Diagram.jpeg)
 - [Project Proposal](./Project_Proposal.md)
 - [Security Onion Overview Page](./Security_Onion_Overview.md)
-- [NIC Teaming Guide](./NIC_Teaming.md)
 
 
 ## Learning Outcomes

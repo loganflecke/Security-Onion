@@ -45,7 +45,7 @@
 ## Physical Hardware Configurations
 ### Server
 
-This is the server that is hosting security onion through a local instance of VMware ESXi.
+This is the server that is hosting security onion through a local instance of VMware ESXi. Two network adapters are shown but only one is currently configured to send traffic to Security Onion
 
 ![server](images/server.jpeg)
 
@@ -54,15 +54,3 @@ This is the server that is hosting security onion through a local instance of VM
 This directs the flow of traffic into and out of the network.
 
 ![switch](images/switch.jpeg)
-
-### NIC Teaming Switch
-
-Due to the lack of a NIC Teaming feature on the main switch, I had to use another switch the duplicate incoming traffic to two outgoing ethernet ports.
-
-![nic_team_switch](images/nic_team_switch.jpeg)
-
-### Network Adapters
-
-Both network adapters are sending duplicate traffic to security onion. VMware ESXi is configured to treat these as one adapter through NIC Teaming to reduce throughput problems.
-
-![adapters](images/adapters.jpeg)
