@@ -2,9 +2,7 @@
 
 *This is prior to starting the project*
 
-*The actual project can be found elsewhere*
-
-## Logan Flecke
+**It is to be used as a reference for the project's intentions, not the outcomes goals for where the project will finish.**
 
 ### Overview
 
