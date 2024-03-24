@@ -4,7 +4,7 @@
 
 **================================================**
 
-![xavier](xavier.png)
+![xavier](images/xavier.png)
 
 
 Welcome to the Security Onion overview page for Xavier University's Cyber Lab. Here, you can get a quick summary of our network security status and access important resources for monitoring and maintaining network security.
