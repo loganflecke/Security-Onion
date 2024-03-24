@@ -27,6 +27,7 @@
 - Used to ingest all traffic that is mirrored by the physical switch
 - Does not assign an IP address
 - Operates in Promiscuous Mode to capture all the traffic it sees on the network
+- Shown are two physical network interface cards which were used to perform NIC Teaming, an attempt at reducing latency.
 
 ![mon_switch](images/mon_switch.png)
 
@@ -45,12 +46,12 @@
 ## Physical Hardware Configurations
 ### Server
 
-This is the server that is hosting security onion through a local instance of VMware ESXi. Two network adapters are shown but only one is currently configured to send traffic to Security Onion
+This is the server that is hosting Security Onion through a local instance of VMware ESXi. Two network adapters are shown but only one is currently configured to send traffic to Security Onion.
 
 ![server](images/server.jpeg)
 
 ### Lab Switch
 
-This directs the flow of traffic into and out of the network.
+This directs the flow of traffic into, out of, and across the network, what is known as north-south and east-west traffic.
 
 ![switch](images/switch.jpeg)
